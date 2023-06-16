@@ -2,15 +2,15 @@
 
 💖💕💖💕💖
 
--meu nome é julia 
+*meu nome é julia 
 
--sou estuante do alura
+*sou estuante do alura
 
--estou completando os cursos
+*estou completando os cursos
 
--uso esse epaço para minha organização e compartilhamento dos meus projetos 
+*uso esse epaço para minha organização e compartilhamento dos meus projetos 
 
-**esntre em contato comigo**📫
+**entre em contato comigo**📫
 
 julia.pawlik@escola.pr.gov.br
 
