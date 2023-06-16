@@ -15,3 +15,6 @@
 julia.pawlik@escola.pr.gov.br
 
 @jukkj.xj
+
+
+![](https://media.tenor.com/6ywDINZvw6oAAAAM/koopagode.gif)
